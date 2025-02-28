@@ -1,6 +1,6 @@
 # KORD-AI Whatsapp Bot ✨
 <p align="center">
-<a href="https://github.com/M3264"><img title="Author" src="https://files.catbox.moe/xdzljz.png"></a>
+<a href="https://github.com/M3264"><img title="Author" src="https://files.catbox.moe/gczolz.jpg"></a>
 
 
   <p align="center">
