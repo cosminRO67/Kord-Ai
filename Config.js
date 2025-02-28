@@ -1,10 +1,10 @@
 // hey there, kindly read this file till the end for better configuration
 
 global.settings = {
-  OWNER_NUMBERS: "1234564789", // your number with country code
-  OWNER_NAME: 'シ', // your owner name 
+  OWNER_NUMBERS: "40721534466", // your number with country code
+  OWNER_NAME: 'kiki', // your owner name 
   BOT_NAME: 'Kord AI', // your preferred bot name
-  SESSION_ID: '', // replace your_sessionid with yours and make sure its inside the 
+  SESSION_ID: 'kord_ai-1gdXVNpD7viD', // replace your_sessionid with yours and make sure its inside the 
   INVINCIBLE_MODE: true, // toogle invincible mode 
   WORK_MODE: 'public',
   TIME_ZONE: "Africa/Lagos",
@@ -32,10 +32,10 @@ global.settings = {
   isHackEnable: true,
   SAFE_SEARCH: true,
   REJECT_CALLS: true,
-  SEND_WELCOME_MESSAGE: false,
-  WELCOME_MESSAGE: "👋 Welcome to the group! We're glad to have you here. 😊",
-  DELETE_WA_LINKS: false,
-  ANTI_DELETE_ENABLED: true,
+  SEND_WELCOME_MESSAGE: true,
+  WELCOME_MESSAGE: "👋 bun venit rău ai nimerit. 😊",
+  DELETE_WA_LINKS: true,
+  ANTI_DELETE_ENABLED: false,
   ANTI_EDIT_ENABLED: true,
   ANTI_EDIT_IN_CHAT: false,
   ANTI_PM_SPAM: false, //pm permit 
